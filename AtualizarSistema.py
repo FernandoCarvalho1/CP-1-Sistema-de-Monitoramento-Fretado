@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-from dados import sistema
+from Dados import sistema
 
 def atualizar_status_automaticamente():
     """
