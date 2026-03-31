@@ -15,7 +15,7 @@
 # ============================================================
 
 from Aluno.Aluno import menu_aluno
-from Monitor.monitor import menu_monitor
+from Monitor.Monitor import menu_monitor
 from RegistrarEvento import registrar_evento
 
 def menu_principal():
