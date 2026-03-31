@@ -19,19 +19,19 @@ Python (Linguagem utilizada);
 Executando arquivo Main, onde será exibido pelo terminal o menu completo de funcionalidades.
 
 ## 📂 Estrutura do Projeto
-CP-1-Sistema-de-Monitoramento-Fretado  
-  Aluno  
-      Aluno.py  
-  Monitor  
-      Monitor.py  
-  AtualizarSistema.py  
-  CalcularTempoRestante.py  
-  Dados.py  
-  ExibirHistorico.py  
-  Main.py  
-  README.md  
-  RegistrarEvento.py  
-  ValidarInteiroPositivo.py  
+* CP-1-Sistema-de-Monitoramento-Fretado  
+  * Aluno  
+      * Aluno.py  
+  * Monitor  
+      * Monitor.py  
+  * AtualizarSistema.py  
+  * CalcularTempoRestante.py  
+  * Dados.py  
+  * ExibirHistorico.py  
+  * Main.py  
+  * README.md  
+  * RegistrarEvento.py  
+  * ValidarInteiroPositivo.py  
 
 ## 🧩 Funcionalidades Implementadas
 Consultar status do ônibus (UC01)
