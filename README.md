@@ -44,6 +44,7 @@ Registrar saída antecipada por lotação (UC07)
 Informar previsão do proximo ônibus (UC08)  
 
 ## 📸 Demonstração (prints / GIFs / link para vídeo)
+https://youtu.be/eYPrDUmmFAc  
 
 ## 👨‍💻 Integrantes do Grupo
 Fernando de Freitas Carvalho (RM: 555194)  
